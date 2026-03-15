@@ -51,7 +51,7 @@ PDF 工具箱不会有意收集 13 岁以下儿童的任何信息。本应用适
 
 如果您对本隐私政策有任何疑问，请联系我们：
 
-- 邮箱：[您的邮箱]
+- 邮箱：dameng86@gmail.com
 - GitHub：https://github.com/huifan/PDFToolkit
 
 ---
